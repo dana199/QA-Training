@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-14T11:12:38 IST" name="Default suite" finished-at="2022-03-14T11:14:32 IST" duration-ms="113814">
+    <groups>
+    </groups>
+    <test started-at="2022-03-14T11:12:38 IST" name="Default test" finished-at="2022-03-14T11:14:32 IST" duration-ms="113814">
+      <class name="Rainbow.Login">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Rainbow.Login@3835c46]" started-at="2022-03-14T11:12:38 IST" name="launchBrowser" finished-at="2022-03-14T11:13:29 IST" duration-ms="51140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="login()[pri:0, instance:Rainbow.Login@3835c46]" started-at="2022-03-14T11:13:30 IST" name="login" finished-at="2022-03-14T11:14:24 IST" duration-ms="53794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="search()[pri:0, instance:Rainbow.Login@3835c46]" started-at="2022-03-14T11:14:24 IST" name="search" finished-at="2022-03-14T11:14:32 IST" duration-ms="8189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- Rainbow.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
